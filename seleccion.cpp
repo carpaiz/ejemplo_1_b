@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+// esto no es una variable es una constante
 const char *nombre_archivo ="archivo.dat";
 struct Estudiante{
 	int codigo;
